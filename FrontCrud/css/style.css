@@ -1,0 +1,26 @@
+body{
+    background-color: #ECECEC;
+}
+
+.contenedor{
+ 
+    background-color: white;
+    -webkit-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+}
+
+#error{
+  color: red;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
+#firstContent{
+    margin-top: 150px;
+}
